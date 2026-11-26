@@ -316,6 +316,7 @@
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync. [![Open-Source Software][OSS Icon]](https://github.com/lra/mackup) ![Freeware][Freeware Icon]
 - [MacPacker](https://macpacker.app) - Preview and extract archives. Native 7-Zip alternative. [![Open-Source Software][OSS Icon]](https://github.com/sarensw/MacPacker) ![Freeware][Freeware Icon]
 - [MacPass](https://macpass.github.io/) - Password Manager. [![Open-Source Software][OSS Icon]](https://github.com/MacPass/MacPass) ![Freeware][Freeware Icon]
+- [Mouse Jiggler for Mac](https://mousejigglermac.com/) - Keep your Mac awake from the menu bar, with optional scheduled cursor movement. Free with an optional one-time PRO upgrade.
 - [Media Converter](http://media-converter.sourceforge.net/) - Simple (drag and drop) but advanced media conversion. [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/media-converter/code/ci/master/tree/) ![Freeware][Freeware Icon]
 - [Menubar Colors](https://github.com/nvzqz/Menubar-Colors) - Convenient access to the system color panel. [![Open-Source Software][OSS Icon]](https://github.com/nvzqz/Menubar-Colors) ![Freeware][Freeware Icon]
 - [MenuMeters](http://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/) - A set of CPU, memory, disk, and network monitoring tools for macOS. [![Open-Source Software][OSS Icon]](https://github.com/yujitach/MenuMeters)
@@ -407,7 +408,6 @@
 - [Glances](https://github.com/nicolargo/glances) - System monitoring tool that runs in terminal. [![Open-Source Software][OSS Icon]](https://github.com/nicolargo/glances) ![Freeware][Freeware Icon]
 - [napwatch](https://github.com/Tuguberk/napwatch) - A terminal UI for diagnosing and controlling macOS power/battery behavior: dark wakes, Power Nap, and live drain rate. [![Open-Source Software][OSS Icon]](https://github.com/Tuguberk/napwatch) ![Freeware][Freeware Icon]
 - [Thread on StackExchange](https://apple.stackexchange.com/questions/12161/os-x-terminal-must-have-utilities)
-- [Mouse Jiggler for Mac](https://mousejigglermac.com/) - Keep your Mac awake by preventing idle sleep without moving the cursor, or schedule cursor movement from the menu bar.
 
 ## Setup
 
