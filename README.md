@@ -407,7 +407,7 @@
 - [Glances](https://github.com/nicolargo/glances) - System monitoring tool that runs in terminal. [![Open-Source Software][OSS Icon]](https://github.com/nicolargo/glances) ![Freeware][Freeware Icon]
 - [napwatch](https://github.com/Tuguberk/napwatch) - A terminal UI for diagnosing and controlling macOS power/battery behavior: dark wakes, Power Nap, and live drain rate. [![Open-Source Software][OSS Icon]](https://github.com/Tuguberk/napwatch) ![Freeware][Freeware Icon]
 - [Thread on StackExchange](https://apple.stackexchange.com/questions/12161/os-x-terminal-must-have-utilities)
-
+- [Mouse Jiggler for Mac](https://mousejigglermac.com/) - Keep your Mac awake by preventing idle sleep without moving the cursor, or schedule cursor movement from the menu bar.
 
 ## Setup
 
